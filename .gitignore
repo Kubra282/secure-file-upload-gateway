@@ -1,0 +1,25 @@
+# Cache ve Geçici Dosyalar
+.phpunit.result.cache
+.TMP
+.bak
+*.log
+*.tmp
+
+# İşletim Sistemi Kalıntıları
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE ve Editör Klasörleri (VS Code, JetBrains vb.)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# XAMPP / Sunucu Yükleme Kalıntıları (Gerçek yüklenen dosyalar gitmesin)
+src/uploads/*
+!src/uploads/.gitkeep

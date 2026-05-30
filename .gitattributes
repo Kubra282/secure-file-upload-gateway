@@ -1,0 +1,14 @@
+# Satır sonlarını otomatik olarak optimize et
+* text=auto
+
+# PHP, HTML ve CSS dosyalarını kod olarak işaretle
+*.php text diff=php
+*.html text diff=html
+*.css text
+
+# Dokümantasyon dosyalarını belirt
+*.md text
+LICENSE text
+
+# Kabuk betiklerini (Shell scripts) Linux uyumlu tut
+*.sh text eol=lf
