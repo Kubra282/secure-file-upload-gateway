@@ -187,3 +187,5 @@
 # Güvenlik modülü iyileþtirmesi 16
 
 # Güvenlik modülü iyileþtirmesi 17
+
+# Güvenlik modülü iyileþtirmesi 18
