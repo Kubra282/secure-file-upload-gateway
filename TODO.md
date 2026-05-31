@@ -14,3 +14,4 @@
 - [ ] Yüklenen dosyaların içerik kontrolü (Magic Numbers) ile sahte uzantı tespiti
 - [ ] Yüklenen dosyaların sunucuya kaydedilirken rastgele hashlenerek (SHA-256) isimlendirilmesi
 - [ ] Zararlı yazılım analizi için ClamAV API entegrasyonu
+# Otomatik log girdisi 1
