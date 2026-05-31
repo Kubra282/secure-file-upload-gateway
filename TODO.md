@@ -155,3 +155,5 @@
 # Otomatik log girdisi 70
 
 # Güvenlik modülü iyileþtirmesi 1
+
+# Güvenlik modülü iyileþtirmesi 2
