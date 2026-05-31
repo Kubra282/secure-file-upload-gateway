@@ -15,3 +15,5 @@
 - [ ] Yüklenen dosyaların sunucuya kaydedilirken rastgele hashlenerek (SHA-256) isimlendirilmesi
 - [ ] Zararlı yazılım analizi için ClamAV API entegrasyonu
 # Otomatik log girdisi 1
+
+# Otomatik log girdisi 2
