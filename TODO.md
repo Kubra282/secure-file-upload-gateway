@@ -19,3 +19,5 @@
 # Otomatik log girdisi 2
 
 # Otomatik log girdisi 3
+
+# Otomatik log girdisi 4
