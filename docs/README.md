@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="204" height="192" alt="isu_logo" src="https://github.com/user-attachments/assets/83b47ed4-0449-4454-82ec-06c9c08eef43" />
+</p>
+
 # 🛡️ CyberShield // Secure File Upload Gateway
 
 Bu proje, web uygulamalarında en sık karşılaşılan kritik güvenlik zafiyetlerinden olan **Güvenli Olmayan Dosya Yükleme (Unrestricted File Upload)** ve **Kaynak Tükenmesi (Resource Exhaustion)** durumlarını engellemek amacıyla geliştirilmiş, sunucu tarafı tahkimatı (Server-Side Hardening) yapılmış güvenli bir dosya yükleme simülasyonudur.
@@ -28,26 +32,26 @@ Bu proje, web uygulamalarında en sık karşılaşılan kritik güvenlik zafiyet
 .
 ├── .github/
 │   └── workflows/
-│       └── ci.yml             # Sürekli entegrasyon ve otomatik test pipeline hattı
+│       └── ci.yml              # Sürekli entegrasyon ve otomatik test pipeline hattı
 ├── docs/
-│   └── README.md              # Teknik dokümantasyon dosyası
+│   └── google_artifact_registry.md # Google Artifact Registry bulut dağıtım rehberi
 ├── reports/
-│   └── security_report.md     # Akademik siber güvenlik proje raporu
+│   └── security_report.md      # Akademik siber güvenlik proje raporu
 ├── src/
-│   ├── index.php              # Güvenli terminal arayüzü ve yükleme formu (Hardened UI)
-│   └── upload.php             # Backend güvenlik filtreleri ve analiz mekanizması
+│   ├── index.php               # Güvenli terminal arayüzü ve yükleme formu (Hardened UI)
+│   └── upload.php              # Backend güvenlik filtreleri ve analiz mekanizması
 ├── tests/
 │   ├── test_upload_security.sh # Otomatik sızma testi (Pentest) simülasyon betiği
-│   └── README.md              # Test senaryoları dokümantasyonu
-├── .env.example               # Merkezi güvenlik politikası yapılandırma şablonu
-├── .gitattributes             # Git satır sonu ve dil algılama optimizasyonları
-├── .gitignore                 # GitHub'a yüklenmeyecek sistem ve geçici dosya filtreleri
-├── Dockerfile                 # Uygulamanın izole konteyner yapılandırması
-├── LICENSE                    # MIT Lisansı açık kaynak kullanım izni
-├── install.sh                 # Otomatik kurulum ve yetkilendirme Bash betiği
-├── Makefile                   # Linux/Mac ortamları için hızlı terminal komutları
-├── requirements.txt           # Bağımlılıklar ve statik tarama araçları listesi
-└── TODO.md                    # Proje yol haritası ve geliştirme aşamaları
+│   └── README.md               # Test senaryoları dokümantasyonu
+├── .env.example                # Merkezi güvenlik politikası yapılandırma şablonu
+├── .gitattributes              # Git satır sonu ve dil algılama optimizasyonları
+├── .gitignore                  # GitHub'a yüklenmeyecek sistem ve geçici dosya filtreleri
+├── Dockerfile                  # Uygulamanın izole konteyner yapılandırması
+├── LICENSE                     # MIT Lisansı açık kaynak kullanım izni
+├── install.sh                  # Otomatik kurulum ve yetkilendirme Bash betiği
+├── Makefile                    # Linux/Mac ortamları için hızlı terminal komutları
+├── requirements.txt            # Bağımlılıklar ve statik tarama araçları listesi
+└── TODO.md                     # Proje yol haritası ve geliştirme aşamaları
 
 ## 🔍 Ele Alınan Zafiyetler ve Güvenlik Filtreleri
 
