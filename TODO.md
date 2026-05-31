@@ -191,3 +191,5 @@
 # Güvenlik modülü iyileþtirmesi 18
 
 # Güvenlik modülü iyileþtirmesi 19
+
+# Güvenlik modülü iyileþtirmesi 20
