@@ -12,7 +12,7 @@ Bu proje, web uygulamalarında en sık karşılaşılan kritik güvenlik zafiyet
 * **Adı Soyadı:** Kübra Fison
 * **Öğrenci Numarası:** 2420191055
 * **Üniversite / Bölüm:** İstinye Üniversitesi // Bilişim Güvenliği Teknolojisi
-* **Ders:** Güvenli Web (Dönem Projesi)
+* **Ders:** BGT208 Güvenli Web 
 
 ---
 
