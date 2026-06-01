@@ -29,13 +29,11 @@ Bu proje, web uygulamalarında en sık karşılaşılan kritik güvenlik zafiyet
 
 ## 📁 Proje Dizin Yapısı
 ```text
-.
-├── .github/
-│   └── workflows/
-│       └── ci.yml              # Sürekli entegrasyon ve otomatik test pipeline hattı
+
 ├── docs/
 │   └── google_artifact_registry.md # Google Artifact Registry bulut dağıtım rehberi
 ├── reports/
+│   ├── deep_vulnerability_research.md # Akademik derin siber güvenlik araştırma raporu
 │   └── security_report.md      # Akademik siber güvenlik proje raporu
 ├── src/
 │   ├── index.php               # Güvenli terminal arayüzü ve yükleme formu (Hardened UI)
